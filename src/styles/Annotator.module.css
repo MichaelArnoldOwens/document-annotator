@@ -2,7 +2,7 @@
   display: flex;
 }
 
-.document_styles {
+.document {
   padding-left: 5px;
   padding-right: 5px;
   border: black solid 1px;
@@ -10,7 +10,7 @@
   max-width: 75%;
 }
 
-.annotations {
+.annotations_container {
   border: black solid 1px;
   min-width: 20%;
 }
